@@ -8,7 +8,7 @@ class Program
 
         Console.WriteLine($"Обнуление разряда десятков: {n}");
 
-        Console.WriteLine($"Минимум = {DoubleMin(12.625, 666)}");
+        Console.WriteLine($"Минимум = {DoubleMin(12.625, 666)}")
     }
 
 
