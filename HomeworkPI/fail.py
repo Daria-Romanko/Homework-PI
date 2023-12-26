@@ -5,5 +5,5 @@ client = TrackerClient(token = 'y0_AgAAAAA_Po2UAAsNAQAAAAD2ABOKFzFo5IiaRv6780PAm
 client.issues.create(
     queue = 'TEAMCITYBUILDFA',
     summary = 'Build fails',
-    assignee = 'Daria190404'
+    assignee = 'Дарья Р.'
 )
